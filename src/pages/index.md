@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Muscles and Fat.com
+title: Musclesandfat.com
 image: /img/home-jumbotron.jpg
 heading: Musclesandfat.com
 subheading: Build Muscle and Lose Fat Easily
